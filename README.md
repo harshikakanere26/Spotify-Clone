@@ -1,1 +1,1 @@
-Creating a  Spotify Clone Using HTML5,JavaScript & CSS # Spotify-Clone
+The Spotify Clone is a responsive website inspired by Spotify's user interface. It includes essential features like a sidebar, playlists, a media player, and dynamic albums. Built with a combination of HTML, CSS, JavaScript, and hosted for free, this project demonstrates the development of a modern websites.
